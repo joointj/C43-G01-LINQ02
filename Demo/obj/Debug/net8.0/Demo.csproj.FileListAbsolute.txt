@@ -1,0 +1,15 @@
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\bin\Debug\net8.0\Demo.exe
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\bin\Debug\net8.0\Demo.deps.json
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\bin\Debug\net8.0\Demo.dll
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\bin\Debug\net8.0\Demo.pdb
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.dll
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\refint\Demo.dll
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.pdb
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+D:\Route\Route Assignment 21 LINQ02\Day 02 Solution\Demo\obj\Debug\net8.0\ref\Demo.dll
